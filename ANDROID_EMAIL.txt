@@ -1,0 +1,17 @@
+REM Send email
+DELAY 2000
+ALT ESC
+ALT b
+STRING mail.google.com
+ENTER
+
+STRING jmonsal2@uncc.edu
+TAB
+TAB
+TAB
+STRING newPassword
+SHIFT TAB
+SHIFT TAB
+SHIFT TAB
+SHIFT TAB
+SHIFT TAB
