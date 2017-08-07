@@ -1,3 +1,21 @@
+
+Penetration testing Research
+
+Rubber Ducky
+
+Some Rubber Ducky Scripts,
+
+Hellp World Opens Note Pad on Windows Displays Hellow World And closes the Notepad as if nothing happened
+
+Android Google Password getter Uses a rubber ducky on an unlocked android device to send an email with a new password and change the logged on google account password now user has access to google account
+
+Reverse SSH Uses a rubber ducky script on an windows machine with Ubuntu terminal also one for Ubuntu. This scriptopens the terminal and types in a Python code to create a reverse SSH The IP on this script currently is tied to a public IP on a Digital Ocean Ubuntu Server This way the Attacker would be able to create the tunnel from any connection not only a local connection
+
+Android Dev mode Uses a rubber ducky to enable Dev mode on Samsung S7 running Android 7.0
+
+
+
+
 How To
 
 Tools:
